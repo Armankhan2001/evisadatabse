@@ -1,0 +1,684 @@
+[
+    {
+        "region": "Africa",
+        "country": "Ethiopia",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Kenya",
+        "visaTypes": [
+            {
+                "type": "ETA",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Uganda",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Ivory Coast",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Tanzania",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Zambia",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Middle East",
+        "country": "Bahrain",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Cambodia",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Middle East",
+        "country": "Oman",
+        "visaTypes": [
+            {
+                "type": "NORMAL",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Sri Lanka",
+        "visaTypes": [
+            {
+                "type": "ETA",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Vietnam",
+        "visaTypes": [
+            {
+                "type": "E VISA",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "VOA LETTER URGENT",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "VOA LETTER NORMAL",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Europe",
+        "country": "Russia",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Indonesia",
+        "visaTypes": [
+            {
+                "type": "EVOA",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Europe/Asia",
+        "country": "Turkey",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Europe",
+        "country": "Georgia",
+        "visaTypes": [
+            {
+                "type": "E VISA",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Europe",
+        "country": "Azerbaijan",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Urgent",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Maynmar",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Armenia",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Tajikistan",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Uzbekistan",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Philippines",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Middle East",
+        "country": "Qatar",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Burkina Faso",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Cameroon",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Guinea - Conakry",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Togo",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Benin",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Morocco",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Middle East",
+        "country": "Saudi Arabia",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Malawi",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Egypt",
+        "visaTypes": [
+            {
+                "type": "Normal",
+                "categories": [
+                    {
+                        "category": "Tourist",
+                        "price": "XXX",
+                        "serviceCharge": "XXX",
+                        "processingTime": "XXX",
+                        "documentsRequired": [
+                            "XXX"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Middle East Gulf",
+        "country": "Dubai (UAE)",
+        "visaTypes": [
+            {
+                "type": "E-visa",
+                "categories": [
+                    {
+                        "category": "Tourist Visa Single Entry - 60 days Validity & 30 days stay",
+                        "price": "6500",
+                        "serviceCharge": "1500",
+                        "processingTime": "2 days",
+                        "documentsRequired": [
+                            "Hotel Booking\nPassport\nPassport Back\nRound Trip Flight Ticket\nTraveler Photo"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
