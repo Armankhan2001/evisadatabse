@@ -1,667 +1,5 @@
 [
     {
-        "region": "Africa",
-        "country": "Ethiopia",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Africa",
-        "country": "Kenya",
-        "visaTypes": [
-            {
-                "type": "ETA",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Africa",
-        "country": "Uganda",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Africa",
-        "country": "Ivory Coast",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Africa",
-        "country": "Tanzania",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Africa",
-        "country": "Zambia",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Middle East",
-        "country": "Bahrain",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Asia",
-        "country": "Cambodia",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Middle East",
-        "country": "Oman",
-        "visaTypes": [
-            {
-                "type": "NORMAL",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Asia",
-        "country": "Sri Lanka",
-        "visaTypes": [
-            {
-                "type": "ETA",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Asia",
-        "country": "Vietnam",
-        "visaTypes": [
-            {
-                "type": "E VISA",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            },
-            {
-                "type": "VOA LETTER URGENT",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            },
-            {
-                "type": "VOA LETTER NORMAL",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Europe",
-        "country": "Russia",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Asia",
-        "country": "Indonesia",
-        "visaTypes": [
-            {
-                "type": "EVOA",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Europe/Asia",
-        "country": "Turkey",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Europe",
-        "country": "Georgia",
-        "visaTypes": [
-            {
-                "type": "E VISA",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Europe",
-        "country": "Azerbaijan",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            },
-            {
-                "type": "Urgent",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Asia",
-        "country": "Maynmar",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Asia",
-        "country": "Armenia",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Asia",
-        "country": "Tajikistan",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Asia",
-        "country": "Uzbekistan",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Asia",
-        "country": "Philippines",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Middle East",
-        "country": "Qatar",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Africa",
-        "country": "Burkina Faso",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Africa",
-        "country": "Cameroon",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Africa",
-        "country": "Guinea - Conakry",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Africa",
-        "country": "Togo",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Africa",
-        "country": "Benin",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Africa",
-        "country": "Morocco",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Middle East",
-        "country": "Saudi Arabia",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Africa",
-        "country": "Malawi",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "region": "Africa",
-        "country": "Egypt",
-        "visaTypes": [
-            {
-                "type": "Normal",
-                "categories": [
-                    {
-                        "category": "Tourist",
-                        "price": "XXX",
-                        "serviceCharge": "XXX",
-                        "processingTime": "XXX",
-                        "documentsRequired": [
-                            "XXX"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "region": "Middle East Gulf",
         "country": "Dubai (UAE)",
         "visaTypes": [
@@ -723,6 +61,576 @@
                             "\npan card",
                             "\nRound Trip Flight Ticket",
                             "\nTraveler Photo"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Ethiopia",
+        "visaTypes": [
+            {
+                "type": "Normal visa",
+                "categories": [
+                    {
+                        "category": "Tourist visa Single Entry - 30 days validity",
+                        "price": "5500",
+                        "serviceCharge": "1500",
+                        "processingTime": "5-7 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " photo",
+                            " Cover letter",
+                            " Tkts And Hotel Details"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Ethiopia",
+        "visaTypes": [
+            {
+                "type": "Normal visa",
+                "categories": [
+                    {
+                        "category": "Tourist visa Single Entry - 90 days validity",
+                        "price": "7000",
+                        "serviceCharge": "1500",
+                        "processingTime": "5-7 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " photo",
+                            " Cover letter",
+                            " Tkts And Hotel Details"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Kenya",
+        "visaTypes": [
+            {
+                "type": "ETA",
+                "categories": [
+                    {
+                        "category": "Tourist visa Single Entry",
+                        "price": "3500",
+                        "serviceCharge": "1500",
+                        "processingTime": "3-4 days",
+                        "documentsRequired": [
+                            "PPT Copy Occupation Details ",
+                            "Hotel",
+                            "Photo",
+                            "Ticket or Travel Date"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Uganda",
+        "visaTypes": [
+            {
+                "type": "Normal visa",
+                "categories": [
+                    {
+                        "category": "Tourist/Business Visa Single Entry",
+                        "price": "4500",
+                        "serviceCharge": "1500",
+                        "processingTime": "3-4 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " Photo",
+                            " Ticket",
+                            " Hotel or Invitation letter"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Ivory Coast",
+        "visaTypes": [
+            {
+                "type": "Normal visa",
+                "categories": [
+                    {
+                        "category": "Tourist visa Single Entry",
+                        "price": "7500",
+                        "serviceCharge": "1500",
+                        "processingTime": "7-10 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " Photo",
+                            " Ticket",
+                            " Hotel or Invitation letter"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Tanzania",
+        "visaTypes": [
+            {
+                "type": "Normal visa",
+                "categories": [
+                    {
+                        "category": "Short Term Visa - Single entry",
+                        "price": "4500",
+                        "serviceCharge": "1500",
+                        "processingTime": "3-4 days",
+                        "documentsRequired": [
+                            "PPT Copy Occupation Details ",
+                            "Hotel",
+                            "Photo",
+                            "TKT",
+                            "Covering letter",
+                            " Invitation letter"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Tanzania",
+        "visaTypes": [
+            {
+                "type": "Normal visa",
+                "categories": [
+                    {
+                        "category": "Short Term Business Visa - Multiple entry",
+                        "price": "22000",
+                        "serviceCharge": "1500",
+                        "processingTime": "3-4 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " photo",
+                            " Tkts And Hotel Details",
+                            " Yellow Fever"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Zambia",
+        "visaTypes": [
+            {
+                "type": "Normal visa",
+                "categories": [
+                    {
+                        "category": "Tourist visa Single Entry - 3 months validity",
+                        "price": "2500",
+                        "serviceCharge": "1500",
+                        "processingTime": "4-6 days",
+                        "documentsRequired": [
+                            "PPT Copy Occupation Details ",
+                            "Hotel",
+                            "Photo",
+                            "TKT",
+                            "Covering letter"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Zambia",
+        "visaTypes": [
+            {
+                "type": "Normal visa",
+                "categories": [
+                    {
+                        "category": "Tourist visa Multiple Entry - 3 months validity",
+                        "price": "7000",
+                        "serviceCharge": "1500",
+                        "processingTime": "4-6 days",
+                        "documentsRequired": [
+                            "PPT Copy Occupation Details ",
+                            "Hotel",
+                            "Photo",
+                            "TKT",
+                            "Covering letter"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Cambodia",
+        "visaTypes": [
+            {
+                "type": "Normal visa",
+                "categories": [
+                    {
+                        "category": "Tourist visa Single Entry - 3 months validity 1 month stay",
+                        "price": "4500",
+                        "serviceCharge": "1500",
+                        "processingTime": "12-15 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " photo",
+                            " Vaccine Certificate",
+                            " insurance",
+                            " Tkts And Hotel Details"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Bahrain",
+        "visaTypes": [
+            {
+                "type": "Normal visa",
+                "categories": [
+                    {
+                        "category": "Tourist visa Single Entry",
+                        "price": "0000",
+                        "serviceCharge": "1500",
+                        "processingTime": "12-15 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " photo",
+                            " Tkts And Hotel Details",
+                            " financial proof",
+                            "cover letter",
+                            "pan/adhar"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Oman",
+        "visaTypes": [
+            {
+                "type": "Normal visa",
+                "categories": [
+                    {
+                        "category": "Tourist visa Single Entry - 10 DAYS STAY WITHOUT INSURANCE",
+                        "price": "2000",
+                        "serviceCharge": "1500",
+                        "processingTime": "4-5 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " photo",
+                            " Pan Card and agreement"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Oman",
+        "visaTypes": [
+            {
+                "type": "Normal visa",
+                "categories": [
+                    {
+                        "category": "Tourist visa Single Entry - 10 DAYS STAY WITH INSURANCE",
+                        "price": "3000",
+                        "serviceCharge": "1500",
+                        "processingTime": "4-5 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " photo",
+                            " Pan Card and agreement"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Oman",
+        "visaTypes": [
+            {
+                "type": "Normal visa",
+                "categories": [
+                    {
+                        "category": "Tourist visa Single Entry - 30 DAYS STAY WITHOUT INSURANCE",
+                        "price": "5500",
+                        "serviceCharge": "1500",
+                        "processingTime": "4-5 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " photo",
+                            " Pan Card and agreement"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Africa",
+        "country": "Oman",
+        "visaTypes": [
+            {
+                "type": "Normal visa",
+                "categories": [
+                    {
+                        "category": "Tourist visa Single Entry - 30 DAYS STAY WITH INSURANCE",
+                        "price": "6500",
+                        "serviceCharge": "1500",
+                        "processingTime": "4-5 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " photo",
+                            " Pan Card and agreement"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Sri Lanka",
+        "visaTypes": [
+            {
+                "type": "ETA",
+                "categories": [
+                    {
+                        "category": "Business Visa Multiple Entry - 6 months validity 30 days stay",
+                        "price": "3000",
+                        "serviceCharge": "1500",
+                        "processingTime": "1-2 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " photo",
+                            " Pan Card and agreement"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Sri Lanka",
+        "visaTypes": [
+            {
+                "type": "ETA",
+                "categories": [
+                    {
+                        "category": "Tourist visa Double Entry - 6 months validity 30 days stay",
+                        "price": "0000",
+                        "serviceCharge": "1500",
+                        "processingTime": "1-2 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " photo",
+                            " Pan Card and agreement"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Vietnam",
+        "visaTypes": [
+            {
+                "type": "Normal visa",
+                "categories": [
+                    {
+                        "category": "2 WORKING DAYS APPROVAL - 30 DAYS (25$ at The Airport)",
+                        "price": "3000",
+                        "serviceCharge": "1500",
+                        "processingTime": "1-2 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " Travel Date and Entry Point in Vietnam"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Vietnam",
+        "visaTypes": [
+            {
+                "type": "VOA Letter Urgent",
+                "categories": [
+                    {
+                        "category": "1 WORKING DAY APPROVAL - 30 DAYS (25$ at The Airport)",
+                        "price": "4000",
+                        "serviceCharge": "1500",
+                        "processingTime": "1-2 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " Travel Date and Entry Point in Vietnam"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Vietnam",
+        "visaTypes": [
+            {
+                "type": "E-visa",
+                "categories": [
+                    {
+                        "category": "E TOURIST VISA - MULTIPLE",
+                        "price": "5000",
+                        "serviceCharge": "1500",
+                        "processingTime": "1-2 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " photo",
+                            " Tkts or Travel Dates along with Entry and Exit points"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Vietnam",
+        "visaTypes": [
+            {
+                "type": "E-visa",
+                "categories": [
+                    {
+                        "category": "E TOURIST VISA",
+                        "price": "2500",
+                        "serviceCharge": "1500",
+                        "processingTime": "3-4 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " photo",
+                            " Tkts or Travel Dates along with Entry and Exit points"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Indonesia",
+        "visaTypes": [
+            {
+                "type": "EVOA",
+                "categories": [
+                    {
+                        "category": "E Visa On Arrival - Normal 30 days",
+                        "price": "3000",
+                        "serviceCharge": "1500",
+                        "processingTime": "2-3 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " photo",
+                            " Tkts And Hotel Details"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Cis Countries",
+        "country": "Russia",
+        "visaTypes": [
+            {
+                "type": "Normal visa",
+                "categories": [
+                    {
+                        "category": "Tourist Visa Single Entry - Upto 16 Days with 60 Days Validity",
+                        "price": "5000",
+                        "serviceCharge": "1500",
+                        "processingTime": "7-8 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " Photo",
+                            " Travel Date",
+                            " Insurance and Filler Proforma."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Turkey",
+        "visaTypes": [
+            {
+                "type": "Normal visa",
+                "categories": [
+                    {
+                        "category": "Tourist evisa Single Entry - need valid UK/USA/Schengen",
+                        "price": "5000",
+                        "serviceCharge": "1500",
+                        "processingTime": "7-8 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " photo",
+                            " Tkts And Relevant Visa copy"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Asia",
+        "country": "Georgia",
+        "visaTypes": [
+            {
+                "type": "E-visa",
+                "categories": [
+                    {
+                        "category": "Normal E Visa 30 Days",
+                        "price": "3000",
+                        "serviceCharge": "1500",
+                        "processingTime": "7-8 days",
+                        "documentsRequired": [
+                            "PPT Copy",
+                            " photo",
+                            " Bank Statement",
+                            " insurnace",
+                            " Cover letter",
+                            " Tkts And Hotel Details"
                         ]
                     }
                 ]
