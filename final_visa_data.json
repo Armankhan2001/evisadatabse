@@ -28,7 +28,7 @@
                 "categories": [
                     {
                         "category": "Tourist Visa Multiple Entry - 60 days",
-                        "price": "11000",
+                        "price": "16500",
                         "serviceCharge": "1500",
                         "processingTime": "2 days",
                         "documentsRequired": [
@@ -51,7 +51,7 @@
                 "type": "E-visa",
                 "categories": [
                     {
-                        "category": "Tourist Visa Single Entry - 60 days",
+                        "category": "Tourist Visa Multiple Entry - 30 days",
                         "price": "11000",
                         "serviceCharge": "1500",
                         "processingTime": "3-4 days",
