@@ -680,5 +680,53 @@
                 ]
             }
         ]
+    },
+    {
+        "region": "Middle East Gulf",
+        "country": "Dubai (UAE)",
+        "visaTypes": [
+            {
+                "type": "E-visa",
+                "categories": [
+                    {
+                        "category": "Tourist Visa Multiple Entry - 60 days",
+                        "price": "11000",
+                        "serviceCharge": "1500",
+                        "processingTime": "2 days",
+                        "documentsRequired": [
+                            "Hotel Booking",
+                            "\nPassport",
+                            "\npan card",
+                            "\nRound Trip Flight Ticket",
+                            "\nTraveler Photo"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "region": "Middle East Gulf",
+        "country": "Dubai (UAE)",
+        "visaTypes": [
+            {
+                "type": "E-visa",
+                "categories": [
+                    {
+                        "category": "Tourist Visa Single Entry - 60 days",
+                        "price": "11000",
+                        "serviceCharge": "1500",
+                        "processingTime": "3-4 days",
+                        "documentsRequired": [
+                            "Hotel Booking",
+                            "\nPassport",
+                            "\npan card",
+                            "\nRound Trip Flight Ticket",
+                            "\nTraveler Photo"
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
