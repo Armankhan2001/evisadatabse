@@ -12,7 +12,12 @@
                         "serviceCharge": "1500",
                         "processingTime": "2 days",
                         "documentsRequired": [
-                            "Hotel Booking\nPassport\nPassport Back\nRound Trip Flight Ticket\nTraveler Photo\nPan Card"
+                            "Hotel Booking",
+                            "\nPassport",
+                            "\npan card",
+                            "\nRound Trip Flight Ticket",
+                            "\nTraveler Photo",
+                            "\nPan Card"
                         ]
                     }
                 ]
