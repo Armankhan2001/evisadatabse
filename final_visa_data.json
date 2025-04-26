@@ -663,16 +663,16 @@
                         "visaValidity": "120 days",
                         "entry": "Multiple",
                         "documentsRequired": [
-                            { "name": "Passport", "description": "", "icon": "🛂" },
-                            { "name": "Passport Back", "description": "", "icon": "🛂" },
-                            { "name": "Traveler Photo", "description": "", "icon": "📸" },
-                            { "name": "Flight Tickets", "description": "", "icon": "✈️" },
-                            { "name": "Hotel Voucher", "description": "", "icon": "🏨" },
-                            { "name": "Travel Insurance", "description": "Upload travel insurance", "icon": "🩺" },
-                            { "name": "Bank E-Statement", "description": "", "icon": "🏦" },
-                            { "name": "ITR", "description": "Latest ITR", "icon": "📄" },
-                            { "name": "GST Certificate / Salary Slip (3 Months)", "description": "", "icon": "📑" },
-                            { "name": "Aadhar Card", "description": "", "icon": "🆔" }
+                          "Passport",
+                           "Passport Back", 
+                           "Traveler Photo", 
+                             "Flight Tickets", 
+                             "Hotel Voucher",
+                             "Travel Insurance",
+                             "Bank E-Statement",
+                             "ITR" ,
+                             "GST Certificate / Salary Slip (3 Months)", 
+                             "Aadhar Card"
                         ]
                     }
                 ]
