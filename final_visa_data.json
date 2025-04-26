@@ -673,8 +673,6 @@
                             { "name": "ITR", "description": "Latest ITR", "icon": "📄" },
                             { "name": "GST Certificate / Salary Slip (3 Months)", "description": "", "icon": "📑" },
                             { "name": "Aadhar Card", "description": "", "icon": "🆔" }
-                                ]
-                            }
                         ]
                     }
                 ]
