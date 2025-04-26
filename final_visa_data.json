@@ -627,7 +627,7 @@
                 "type": "E-visa | Validity 120 days",
                 "categories": [
                     {
-                        "category": "Normal E Visa 30 Days stay| Validity 120 Days",
+                        "category": "Normal E Visa 30 Days stay",
                         "price": "3500",
                         "serviceCharge": "1500",
                         "processingTime": "15 Business days",
@@ -652,10 +652,10 @@
         "countryCode": "ge",
         "visaTypes": [
             {
-                "type": "E-Visa 30 Days Stay | Validity 120 days",
+                "type": "E-Visa | Validity 120 days",
                 "categories": [
                     {
-                        "category": "Georgia E-Visa (Popular) 97% Approval ",
+                        "category": "Georgia E-Visa (Popular) 97% Approval|30 days",
                         "price": "5500",
                         "serviceCharge": "1500",
                         "processingTime": "10 Business Days",
@@ -666,13 +666,13 @@
                           "Passport",
                            "Passport Back", 
                            "Traveler Photo", 
-                             "Flight Tickets", 
-                             "Hotel Voucher",
-                             "Travel Insurance",
-                             "Bank E-Statement",
-                             "ITR" ,
-                             "GST Certificate / Salary Slip (3 Months)", 
-                             "Aadhar Card"
+                            "Flight Tickets", 
+                            "Hotel Voucher",
+                            "Travel Insurance",
+                            "Bank E-Statement",
+                            "ITR" ,
+                            "GST Certificate / Salary Slip (3 Months)", 
+                            "Aadhar Card"
                         ]
                     }
                 ]
