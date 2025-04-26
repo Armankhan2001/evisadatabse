@@ -624,10 +624,10 @@
         "country": "Georgia",
         "visaTypes": [
             {
-                "type": "E-visa",
+                "type": "E-visa | Validity 120 days",
                 "categories": [
                     {
-                        "category": "Normal E Visa 30 Days",
+                        "category": "Normal E Visa 30 Days stay| Validity 120 Days",
                         "price": "3500",
                         "serviceCharge": "1500",
                         "processingTime": "15 Business days",
@@ -652,7 +652,7 @@
         "countryCode": "ge",
         "visaTypes": [
             {
-                "type": "E-Visa",
+                "type": "E-Visa 30 Days Stay | Validity 120 days",
                 "categories": [
                     {
                         "category": "Georgia E-Visa (Popular) 97% Approval ",
