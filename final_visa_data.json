@@ -628,47 +628,24 @@
                 "categories": [
                     {
                         "category": "Normal E Visa 30 Days",
-                        "price": "3000",
+                        "price": "3500",
                         "serviceCharge": "1500",
-                        "processingTime": "7-8 days",
+                        "processingTime": "15 Business days",
                         "documentsRequired": [
-                            "PPT Copy",
+                            "Passport ",
                             " photo",
                             " Bank Statement",
                             " insurnace",
                             " Cover letter",
-                            " Tkts And Hotel Details"
+                            "Aadhaar Card",
+                            "Travel Itinerary",
+                            " Flight And Hotel Tickets"
                         ]
                     }
                 ]
             }
         ]
     },
-    {
-    "region": "Asia",
-    "country": "Georgia",
-    "visaTypes": [
-        {
-            "type": "E-visa",
-            "categories": [
-                {
-                    "category": "Normal E Visa 30 Days",
-                    "price": "3000",
-                    "serviceCharge": "1500",
-                    "processingTime": "7-8 days",
-                    "documentsRequired": [
-                        "PPT Copy",
-                        "photo",
-                        "Bank Statement",
-                        "Insurance",
-                        "Cover letter",
-                        "Tkts And Hotel Details"
-                    ]
-                }
-            ]
-        }
-    ]
-},
 {
         "region": "Europe",
         "country": "Georgia",
@@ -678,94 +655,24 @@
                 "type": "E-Visa",
                 "categories": [
                     {
-                        "category": "Georgia E-Visa (Popular)",
+                        "category": "Georgia E-Visa (Popular) 97% Approval ",
                         "price": "5500",
-                        "serviceCharge": "Included (Service Fees + GST)",
+                        "serviceCharge": "1500",
                         "processingTime": "10 Business Days",
                         "maxStay": "30 days",
                         "visaValidity": "120 days",
                         "entry": "Multiple",
                         "documentsRequired": [
-                            {
-                                "documentCategory": "Mandatory Documents",
-                                "documents": [
-                                    {
-                                        "name": "Passport",
-                                        "description": "Original Passport with at least 6 months validity and minimum 3 blank pages",
-                                        "icon": "🛂"
-                                    },
-                                    {
-                                        "name": "Old Passports",
-                                        "description": "Include all old passports if any",
-                                        "icon": "📘"
-                                    },
-                                    {
-                                        "name": "Photograph",
-                                        "description": "2 recent color scanned photos (as per photo specs)",
-                                        "icon": "📸"
-                                    },
-                                    {
-                                        "name": "Visa Application Forms",
-                                        "description": "2 completed and signed visa application forms",
-                                        "icon": "📝"
-                                    },
-                                    {
-                                        "name": "Covering Letter",
-                                        "description": "Explaining the purpose of travel",
-                                        "icon": "📄"
-                                    },
-                                    {
-                                        "name": "Bank Statement",
-                                        "description": "Last 3 months, stamped and updated with bank seal",
-                                        "icon": "🏦"
-                                    },
-                                    {
-                                        "name": "Flight Tickets",
-                                        "description": "Round-trip proof of travel",
-                                        "icon": "✈️"
-                                    },
-                                    {
-                                        "name": "Hotel Reservation",
-                                        "description": "Proof of accommodation for the entire stay",
-                                        "icon": "🏨"
-                                    },
-                                    {
-                                        "name": "Travel Itinerary",
-                                        "description": "Day-wise plan for the entire trip",
-                                        "icon": "🗓️"
-                                    },
-                                    {
-                                        "name": "Yellow Fever Certificate",
-                                        "description": "Mandatory for visa application",
-                                        "icon": "💉"
-                                    }
-                                ]
-                            },
-                            {
-                                "documentCategory": "Combo Offer (E-Visa + Travel Insurance)",
-                                "documents": [
-                                    { "name": "Passport", "description": "", "icon": "🛂" },
-                                    { "name": "Passport Back", "description": "", "icon": "🛂" },
-                                    { "name": "Traveler Photo", "description": "", "icon": "📸" },
-                                    { "name": "Flight Tickets", "description": "", "icon": "✈️" },
-                                    { "name": "Hotel Vouchers", "description": "", "icon": "🏨" },
-                                    { "name": "Bank E-Statement", "description": "", "icon": "🏦" },
-                                    { "name": "Aadhaar Card", "description": "", "icon": "🆔" }
-                                ]
-                            },
-                            {
-                                "documentCategory": "Georgia E-Visa 97% Approval",
-                                "documents": [
-                                    { "name": "Passport", "description": "", "icon": "🛂" },
-                                    { "name": "Passport Back", "description": "", "icon": "🛂" },
-                                    { "name": "Traveler Photo", "description": "", "icon": "📸" },
-                                    { "name": "Flight Tickets", "description": "", "icon": "✈️" },
-                                    { "name": "Hotel Voucher", "description": "", "icon": "🏨" },
-                                    { "name": "Travel Insurance", "description": "Upload travel insurance", "icon": "🩺" },
-                                    { "name": "Bank E-Statement", "description": "", "icon": "🏦" },
-                                    { "name": "ITR", "description": "Latest ITR", "icon": "📄" },
-                                    { "name": "GST Certificate / Salary Slip (3 Months)", "description": "", "icon": "📑" },
-                                    { "name": "Aadhar Card", "description": "", "icon": "🆔" }
+                            { "name": "Passport", "description": "", "icon": "🛂" },
+                            { "name": "Passport Back", "description": "", "icon": "🛂" },
+                            { "name": "Traveler Photo", "description": "", "icon": "📸" },
+                            { "name": "Flight Tickets", "description": "", "icon": "✈️" },
+                            { "name": "Hotel Voucher", "description": "", "icon": "🏨" },
+                            { "name": "Travel Insurance", "description": "Upload travel insurance", "icon": "🩺" },
+                            { "name": "Bank E-Statement", "description": "", "icon": "🏦" },
+                            { "name": "ITR", "description": "Latest ITR", "icon": "📄" },
+                            { "name": "GST Certificate / Salary Slip (3 Months)", "description": "", "icon": "📑" },
+                            { "name": "Aadhar Card", "description": "", "icon": "🆔" }
                                 ]
                             }
                         ]
