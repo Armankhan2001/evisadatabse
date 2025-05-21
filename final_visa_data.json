@@ -687,8 +687,8 @@
         "type": "E-visa",
         "categories": [
           {
-            "category": "Tourist Visa Single Entry - 3 Months Validity & 30 Days Stay",
-            "price": "4500",
+            "category": "Tourist Visa Single Entry - 30 days Validity & 30 Days Stay",
+            "price": "5000",
             "serviceCharge": "0",
             "processingTime": "7-10 Working Days",
             "documentsRequired": [
@@ -698,7 +698,7 @@
           },
           {
             "category": "Tourist Visa Multiple Entry - 6 Months Validity & 30 Days Stay",
-            "price": "12500",
+            "price": "14500",
             "serviceCharge": "0",
             "processingTime": "7-10 Working Days",
             "documentsRequired": [
