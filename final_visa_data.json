@@ -646,7 +646,7 @@
             }
         ]
     },
-{
+    {
         "region": "Europe",
         "country": "Georgia",
         "countryCode": "ge",
@@ -678,5 +678,36 @@
                 ]
             }
         ]
-    }
+    },
+    {
+    "region": "Middle East",
+    "country": "Egypt",
+    "visaTypes": [
+      {
+        "type": "E-visa",
+        "categories": [
+          {
+            "category": "Tourist Visa Single Entry - 3 Months Validity & 30 Days Stay",
+            "price": "4500",
+            "serviceCharge": "0",
+            "processingTime": "7-10 Working Days",
+            "documentsRequired": [
+              "PPT Copy",
+              "Pan Card"
+            ]
+          },
+          {
+            "category": "Tourist Visa Multiple Entry - 6 Months Validity & 30 Days Stay",
+            "price": "12500",
+            "serviceCharge": "0",
+            "processingTime": "7-10 Working Days",
+            "documentsRequired": [
+              "PPT Copy",
+              "Pan Card"
+            ]
+          }
+        ]
+      }
+    ]
+  }
 ]
